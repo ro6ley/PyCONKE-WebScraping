@@ -35,9 +35,9 @@ python demo.py
 
 ## Scraping Resources
 
-* [Requests](http://python-requests.org) - The web framework used
-* [Beautiful Soup 4](https://maven.apache.org/) - Dependency Management
-* [Scrapy](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Requests](http://python-requests.org/) - Requests is the only Non-GMO HTTP library for Python, safe for human consumption.
+* [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/) - Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping.
+* [Scrapy](https://scrapy.org/) - An open source and collaborative framework for extracting the data you need from websites. In a fast, simple, yet extensible way.
 
 
 ## Authors
