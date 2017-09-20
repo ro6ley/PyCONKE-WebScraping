@@ -2,6 +2,8 @@
 
 This is the demo project for the talk on Web Scraping using Python for PyCon KE held at USIU.
 
+The slides are available [here](https://docs.google.com/presentation/d/1CX23t6kTjVhpj75whSckjYPCwG1u8CA3JSQ2YlxGcbM/edit?usp=sharing)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -34,7 +36,13 @@ python demo.py
 
 
 ## Scraping Resources
+### Guides
 
+* [Beginner’s guide to Web Scraping in Python (using BeautifulSoup)](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
+* [Introduction to Web Scraping using Selenium](https://medium.com/the-andela-way/introduction-to-web-scraping-using-selenium-7ec377a8cf72)
+* []()
+
+### Tools
 * [Requests](http://python-requests.org/) - Requests is the only Non-GMO HTTP library for Python, safe for human consumption.
 * [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/) - Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping.
 * [Scrapy](https://scrapy.org/) - An open source and collaborative framework for extracting the data you need from websites. In a fast, simple, yet extensible way.
