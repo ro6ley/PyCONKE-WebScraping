@@ -40,26 +40,20 @@ python demo.py
 
 * [Beginner’s guide to Web Scraping in Python (using BeautifulSoup)](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
 * [Introduction to Web Scraping using Selenium](https://medium.com/the-andela-way/introduction-to-web-scraping-using-selenium-7ec377a8cf72)
-* []()
+* [10 Web Scraping Tools to Extract Online Data](http://www.hongkiat.com/blog/web-scraping-tools/)
+* [5 Tasty Python Web Scraping Libraries](https://elitedatascience.com/python-web-scraping-libraries)
+* [Webscraping with Selenium](http://thiagomarzagao.com/2013/11/12/webscraping-with-selenium-part-1/)
 
 ### Tools
 * [Requests](http://python-requests.org/) - Requests is the only Non-GMO HTTP library for Python, safe for human consumption.
 * [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/) - Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping.
 * [Scrapy](https://scrapy.org/) - An open source and collaborative framework for extracting the data you need from websites. In a fast, simple, yet extensible way.
+* [Selenium](http://selenium-python.readthedocs.io/) - Selenium is a tool that automates browsers, also known as a web-driver.
+* [Lxml](http://lxml.de/) - Lxml is a high-performance, production-quality HTML and XML parsing library.
 
 
 ## Authors
 
-* **Robley Gori** - *Initial work*
+* **Robley Gori**
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
