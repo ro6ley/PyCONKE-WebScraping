@@ -5,7 +5,7 @@ import urllib2
 from bs4 import BeautifulSoup
 
 # specify the url to scrap
-urlToScrap = 'https://github.com/Mochualex4?tab=repositories'
+urlToScrap = 'https://github.com/NaiRobley?tab=repositories'
 
 # Query the web page
 page = urllib2.urlopen(urlToScrap)
