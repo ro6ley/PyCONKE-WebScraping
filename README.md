@@ -2,6 +2,8 @@
 
 This is the demo project for the talk on Web Scraping using Python for PyCon KE held at USIU.
 
+The presentation slides are [here](https://docs.google.com/presentation/d/1CX23t6kTjVhpj75whSckjYPCwG1u8CA3JSQ2YlxGcbM/edit?usp=sharing)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
