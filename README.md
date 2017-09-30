@@ -2,7 +2,7 @@
 
 This is the demo project for the talk on Web Scraping using Python for PyCon KE held at USIU.
 
-The slides are available [here](https://docs.google.com/presentation/d/1CX23t6kTjVhpj75whSckjYPCwG1u8CA3JSQ2YlxGcbM/edit?usp=sharing)
+The presentation slides are [here](https://docs.google.com/presentation/d/1CX23t6kTjVhpj75whSckjYPCwG1u8CA3JSQ2YlxGcbM/edit?usp=sharing)
 
 ## Getting Started
 
@@ -50,6 +50,7 @@ python demo.py
 * [Scrapy](https://scrapy.org/) - An open source and collaborative framework for extracting the data you need from websites. In a fast, simple, yet extensible way.
 * [Selenium](http://selenium-python.readthedocs.io/) - Selenium is a tool that automates browsers, also known as a web-driver.
 * [Lxml](http://lxml.de/) - Lxml is a high-performance, production-quality HTML and XML parsing library.
+
 
 
 ## Authors
