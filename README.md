@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/nairobley/PyCONKE-WebScraping.svg)](http://hits.dwyl.io/nairobley/PyCONKE-WebScraping)
 # Web Scraping with Python by Robley Gori for PyCONKE 17
 
 This is the demo project for the talk on Web Scraping using Python for PyCon KE held at USIU.
