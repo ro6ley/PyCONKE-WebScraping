@@ -1,5 +1,5 @@
 # import the library to query a website
-import urllib2
+import requests
 
 # import beautiful soup too
 from bs4 import BeautifulSoup
@@ -8,10 +8,10 @@ from bs4 import BeautifulSoup
 urlToScrap = 'https://github.com/NaiRobley?tab=repositories'
 
 # Query the web page
-page = urllib2.urlopen(urlToScrap)
+page = requests.get(urlToScrap)
 
 # parse the html file
-soup = BeautifulSoup(page, 'html.parser')
+soup = BeautifulSoup(page.content, 'html.parser')
 
 # to view the source
 # print(soup.prettify)
