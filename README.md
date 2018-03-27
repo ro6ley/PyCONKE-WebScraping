@@ -20,7 +20,7 @@ Clone the repository and install the requirements in a virtual environment
 ```
 cd PyCONKE-WebScrapinga
 
-virtualenv --python=python2 pycondemo
+virtualenv --python=python3 pycondemo
 
 . /pycondemo/bin/activate
 
