@@ -18,7 +18,7 @@ The requirements are in the `requirements.txt` file
 Clone the repository and install the requirements in a virtual environment
 
 ```
-cd PyCONKE-WebScrapinga
+cd PyCONKE-WebScraping
 
 virtualenv --python=python3 pycondemo
 
