@@ -3,7 +3,7 @@ attrs==17.2.0
 Automat==0.6.0
 beautifulsoup4==4.6.0
 bs4==0.0.1
-certifi==2017.7.27.1
+certifi==2022.12.7
 cffi==1.10.0
 chardet==3.0.4
 constantly==15.1.0
